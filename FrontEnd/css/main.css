@@ -1634,7 +1634,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 997; }
 
 .header-scrolled {
-  background: rgba(70, 219, 249, 0.9);
+  background: rgb(7, 141, 230);
   transition: all 0.5s; }
 
 @media (max-width: 673px) {
@@ -1775,7 +1775,7 @@ h1, h2, h3, h4, h5, h6 {
       top: 22px; } }
 
 #mobile-nav-toggle i {
-  color: #fff;
+  color: rgb(3, 0, 0);
   font-weight: 900; }
 
 @media (max-width: 960px) {
