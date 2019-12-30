@@ -1,7 +1,7 @@
 from PIL import Image  
   
 # Opens a image in RGB mode  
-im = Image.open("shubham.jpg")  
+im = Image.open("omkar.jpg")  
   
 # Size of the image in pixels (size of orginal image)  
 # (This is not mandatory)  
@@ -20,4 +20,4 @@ newsize = (640, 640)
 im1 = im.resize(newsize) 
 # Shows the image in image viewer  
 im1.show()
-im1.save('shubham.jpg')
+im1.save('omkar.jpg')
